@@ -1,0 +1,17 @@
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/bin/Debug/net6.0/Exercise02
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/bin/Debug/net6.0/Exercise02.deps.json
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/bin/Debug/net6.0/Exercise02.runtimeconfig.json
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/bin/Debug/net6.0/Exercise02.dll
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/bin/Debug/net6.0/ref/Exercise02.dll
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/bin/Debug/net6.0/Exercise02.pdb
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/bin/Debug/net6.0/Exercise01.dll
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/Exercise02.csproj.AssemblyReference.cache
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/Exercise02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/Exercise02.AssemblyInfoInputs.cache
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/Exercise02.AssemblyInfo.cs
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/Exercise02.csproj.CoreCompileInputs.cache
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/Exercise02.csproj.CopyComplete
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/Exercise02.dll
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/ref/Exercise02.dll
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/Exercise02.pdb
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise02/obj/Debug/net6.0/Exercise02.genruntimeconfig.cache

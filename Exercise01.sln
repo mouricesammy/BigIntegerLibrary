@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1703.4
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise01", "Exercise01\Exercise01.csproj", "{E7DC396F-7D40-4D9B-A43D-DE4849EB751D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Exercise02", "Exercise02\Exercise02.csproj", "{9000D42D-1361-47A1-989E-EF9EDB7C9D2C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{73418761-E2B2-4575-8435-44BFDC65D70B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E7DC396F-7D40-4D9B-A43D-DE4849EB751D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7DC396F-7D40-4D9B-A43D-DE4849EB751D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7DC396F-7D40-4D9B-A43D-DE4849EB751D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7DC396F-7D40-4D9B-A43D-DE4849EB751D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9000D42D-1361-47A1-989E-EF9EDB7C9D2C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9000D42D-1361-47A1-989E-EF9EDB7C9D2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9000D42D-1361-47A1-989E-EF9EDB7C9D2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9000D42D-1361-47A1-989E-EF9EDB7C9D2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{73418761-E2B2-4575-8435-44BFDC65D70B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73418761-E2B2-4575-8435-44BFDC65D70B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73418761-E2B2-4575-8435-44BFDC65D70B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73418761-E2B2-4575-8435-44BFDC65D70B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {26AAFCA0-8EEE-4AD7-B737-9B61C1557864}
+	EndGlobalSection
+EndGlobal

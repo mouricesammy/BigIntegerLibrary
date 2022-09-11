@@ -1,0 +1,10 @@
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/bin/Release/netstandard2.1/Exercise01.deps.json
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/bin/Release/netstandard2.1/Exercise01.dll
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/bin/Release/netstandard2.1/Exercise01.pdb
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/obj/Release/netstandard2.1/Exercise01.csproj.AssemblyReference.cache
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/obj/Release/netstandard2.1/Exercise01.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/obj/Release/netstandard2.1/Exercise01.AssemblyInfoInputs.cache
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/obj/Release/netstandard2.1/Exercise01.AssemblyInfo.cs
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/obj/Release/netstandard2.1/Exercise01.csproj.CoreCompileInputs.cache
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/obj/Release/netstandard2.1/Exercise01.dll
+/Users/mouriceoronje/Projects/personal/Exercise01/Exercise01/obj/Release/netstandard2.1/Exercise01.pdb
